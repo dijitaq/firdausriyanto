@@ -1,0 +1,15 @@
+{
+	"name": "firdausriyanto.com website sass",
+	"version": "1.0.0",
+	"description": "firdausriyanto.com website sass",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Firdaus Riyanto",
+	"license": "ISC",
+	"devDependencies": {
+		"gulp": "^4.0.2",
+		"gulp-sass": "^4.0.2"
+	}
+}
